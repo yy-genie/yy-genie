@@ -1,6 +1,6 @@
 ## Hi, I'm Yujin 👋
 
-<h3><b>📋 [CV](https://drive.google.com/file/d/1vsFTxtTyF7ITbz_LWTiUb7oQUXELExEZ/view?usp=sharing)</b></h3>
+<h3><b>📋 [CV]</b></h3>(https://drive.google.com/file/d/1vsFTxtTyF7ITbz_LWTiUb7oQUXELExEZ/view?usp=sharing)
 
 <div align="center"><h1>📚 STACKS</h1></div>
 
