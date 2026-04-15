@@ -1,4 +1,4 @@
-## Hi, I'm Yujin 👋
+## Hi, I'm Yujin 🌸
 
 <h3><b>📋 <a href="https://drive.google.com/file/d/1vsFTxtTyF7ITbz_LWTiUb7oQUXELExEZ/view?usp=sharing">CV</a></b></h3>
 
