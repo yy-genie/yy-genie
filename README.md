@@ -39,6 +39,6 @@
 ---
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=yy-genie&show_icons=true"/>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yy-genie&layout=compact&card_width=320"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yy-genie&show_icons=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yy-genie&layout=compact&card_width=320"/>
 </div>
