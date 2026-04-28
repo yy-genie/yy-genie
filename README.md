@@ -38,5 +38,7 @@
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
   <br>
   
-![yy-genie's github stats](https://github-readme-stats.vercel.app/api?username=username)
 </div>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)
+
