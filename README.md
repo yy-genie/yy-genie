@@ -38,5 +38,5 @@
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yy-genie)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yy-genie&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yy-genie&hide=contribs&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yy-genie&layout=compact&card_width=445)
