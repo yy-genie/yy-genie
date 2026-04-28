@@ -38,5 +38,7 @@
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yy-genie&hide=contribs&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yy-genie&layout=compact&card_width=445)
+<div align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=yy-genie&show_icons=true"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yy-genie&layout=compact"/>
+</div>
