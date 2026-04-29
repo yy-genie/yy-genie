@@ -40,5 +40,5 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=yy-genie&show_icons=true"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yy-genie&layout=compact&card_width=320&exclude_repo=AI&cache_bust=4"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yy-genie&layout=compact&card_width=320&exclude_repo=AI,Data&cache_bust=54"/>
 </div>
